@@ -1,0 +1,8 @@
+# Sat Nov 11 22:53:12 2017
+# Schema: diveourp_ss_dbname911  Last_errno: 0  Killed: 0
+# Query_time: 2.474320  Lock_time: 0.033845  Rows_sent: 0  Rows_examined: 1  Rows_affected: 1
+# Bytes_sent: 52
+use diveourp_ss_dbname911;
+SET timestamp=1510465992;
+UPDATE `wp_rbha_options` SET `option_value` = '12063' WHERE `option_name` = 'tesseract_advertisement_banner'
+
